@@ -1,4 +1,4 @@
-```markdown
+
 # Audio Transcription Project
 
 This repository contains the results of an audio transcription performed using OpenAI's Whisper model in Google Colab.
